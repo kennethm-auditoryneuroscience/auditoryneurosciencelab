@@ -1,0 +1,10 @@
+---
+title: "Notes on website creation"
+author: "Kenneth Morse"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+# Current progress
+Left off on this website:
+https://happygitwithr.com/rstudio-git-github
